@@ -1,5 +1,7 @@
 # NTR Mobile - Portable Auto-Translator
 
+especially for NosyFellow https://www.patreon.com/cw/NosyFellow
+
 Offline, no-download-needed translator installer for **NTR Mobile** using BepInEx 6 + XUnity AutoTranslator 5.6.1.
 
 All required files are included in the `files/` folder. **No internet connection required** for installation (translation itself still needs internet).
